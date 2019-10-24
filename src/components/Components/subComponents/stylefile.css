@@ -1,0 +1,12 @@
+.divFullHeight {
+  background-color: "#eee";
+  height: 100vh;
+  /* vh stands for view-port height, 1vh is 1% of screen height */
+}
+
+nav nav.Link {
+  color: "#5DADE2";
+}
+nav nav.Link :hover {
+  background-color: black;
+}
